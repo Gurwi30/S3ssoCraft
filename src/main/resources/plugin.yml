@@ -1,0 +1,3 @@
+name: S3ssoCraft
+version: '${project.version}'
+main: me.gurwi.s3ssocraft.S3ssoCraft
