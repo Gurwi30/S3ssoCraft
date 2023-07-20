@@ -1,21 +1,19 @@
-package me.gurwi.fadedmask.config;
+package me.gurwi.s3ssocraft.config;
 
-import me.gurwi.fadedmask.utils.PluginCustomLoader;
+import me.gurwi.s3ssocraft.utils.PluginCustomLoader;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.configuration.Configuration;
 
 import java.util.List;
 import java.util.Objects;
 
+@SuppressWarnings("unused")
 public enum LangManager {
 
     PREFIX("Prefix"),
     NO_PERMS("No-Perms"),
 
-    FULL_INVENTORY("Full-Inventory"),
-
-    MASK_EQUIPPED("Mask-Equipped"),
-    IS_ALREADY_EQUIPPED("Is-Already-Equipped");
+    DEATH_MESSAGE("Death-Message");
 
     // CONSTRUCTOR
 

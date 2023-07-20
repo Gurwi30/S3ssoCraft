@@ -1,0 +1,8 @@
+#
+# S3ssoCraft v1.0.0
+# by @Gurwi30 (github.com/Gurwi30)
+#
+
+Required-Penetrations: RANDOM:4:6 # Put a number if you want a defined amount
+                                  # Random Usage -> RANDOM:MIN-AMOUNT:MAX-AMOUNT
+                                  # Required shifts to kill a player

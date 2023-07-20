@@ -1,4 +1,4 @@
-package me.gurwi.fadedmask.commands.base;
+package me.gurwi.s3ssocraft.commands.base;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

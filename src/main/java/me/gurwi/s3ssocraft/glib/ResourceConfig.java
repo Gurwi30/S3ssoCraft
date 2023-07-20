@@ -1,4 +1,4 @@
-package me.gurwi.fadedmask.glib;
+package me.gurwi.s3ssocraft.glib;
 
 import lombok.Getter;
 import org.bukkit.configuration.InvalidConfigurationException;

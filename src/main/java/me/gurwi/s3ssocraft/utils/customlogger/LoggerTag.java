@@ -1,4 +1,4 @@
-package me.gurwi.fadedmask.utils.customlogger;
+package me.gurwi.s3ssocraft.utils.customlogger;
 
 @SuppressWarnings("unused")
 public enum LoggerTag {

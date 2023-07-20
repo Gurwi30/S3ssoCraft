@@ -1,6 +1,6 @@
-package me.gurwi.fadedmask.utils;
+package me.gurwi.s3ssocraft.utils;
 
-import me.gurwi.fadedmask.config.LangManager;
+import me.gurwi.s3ssocraft.config.LangManager;
 import org.bukkit.command.CommandSender;
 import org.bukkit.permissions.PermissionAttachmentInfo;
 
@@ -24,7 +24,7 @@ public class PermissionChecker {
     public static boolean isOp(CommandSender sender) {
         if (sender.isOp()) return true;
         if (sender.hasPermission("*")) return true;
-        return sender.hasPermission("fadedmasks.*");
+        return sender.hasPermission("sessocraft.*");
     }
 
     public static String getInsufficentPermsError() {

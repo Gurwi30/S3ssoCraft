@@ -1,7 +1,7 @@
-package me.gurwi.fadedmask.commands.base;
+package me.gurwi.s3ssocraft.commands.base;
 
-import me.gurwi.fadedmask.config.LangManager;
-import me.gurwi.fadedmask.utils.PermissionChecker;
+import me.gurwi.s3ssocraft.config.LangManager;
+import me.gurwi.s3ssocraft.utils.PermissionChecker;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
